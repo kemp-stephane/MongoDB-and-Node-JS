@@ -1,0 +1,52 @@
+h2{
+  margin: 40px;
+  text-align: center;
+  color: rgb(239, 201, 154);
+}
+
+input {
+  margin:10px; 
+  text-align: center;
+  display: inline-block;
+  padding:4px 50px;
+}
+
+label {
+  padding:90px;
+  text-align: center;
+}
+
+th {
+  padding:10px 50px;
+  color: rgb(211, 35, 90)
+}
+
+td {
+  padding:10px 50px;
+}
+
+tr {
+  border-bottom: 1px solid rgb(5, 5, 20);
+}
+
+table, th, td {
+  border-collapse:collapse;
+  margin:auto;
+  border: 1px solid;
+}
+
+.header{
+  color:rgb(123, 121, 121)
+}
+
+button{
+  margin:10px;
+  padding:10px 50px;
+  background-color: rgb(97, 208, 150);
+  font-size: 12px;
+}
+
+button:hover{
+  margin:10px;
+  background-color: rgb(215, 249, 28);
+}
